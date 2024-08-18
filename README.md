@@ -28,7 +28,9 @@ Running the Application-
 	1.	Clone the repository: git clone https://github.com/yourusername/simple-calculator.git
 
  	2.	Navigate to the project directory: cd simple-calculator
-        3.	Compile and run the application: javac -d bin src/org/example/Calculator.java
+  
+        3.	Compile and run the application: 
+	        javac -d bin src/org/example/Calculator.java
     	        java -cp bin org.example.Calculator
 
      
